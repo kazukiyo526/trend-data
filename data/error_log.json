@@ -33,5 +33,12 @@
     "error_type": "fetch_failed",
     "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 62764; The entity name must immediately follow the '&' in the entity reference.",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-03T07:37:20.176Z",
+    "source": "PubMed",
+    "error_type": "fetch_failed",
+    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/07/02\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
   }
 ]
