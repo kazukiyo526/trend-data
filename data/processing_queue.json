@@ -204,121 +204,121 @@
   },
   {
     "record_id": "news_20260706_0000",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0001",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0002",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0003",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0004",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0005",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0006",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0007",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0008",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0009",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0010",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0011",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0012",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0013",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0014",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0015",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   },
   {
     "record_id": "news_20260706_0016",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-05T18:57:24.029Z"
+    "updated_at": "2026-07-06T18:15:51.860Z"
   }
 ]
