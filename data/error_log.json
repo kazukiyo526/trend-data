@@ -292,5 +292,12 @@
     "error_type": "fetch_failed",
     "message": "HTTP 403",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-09T06:27:26.219Z",
+    "source": "https://feeds.reuters.com/reuters/topNews",
+    "error_type": "fetch_failed",
+    "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
+    "retry_count": 3
   }
 ]
