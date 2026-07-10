@@ -348,5 +348,12 @@
     "error_type": "fetch_failed",
     "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-10T06:28:11.492Z",
+    "source": "https://www.sciencedaily.com/rss/all.xml",
+    "error_type": "fetch_failed",
+    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 440; columnNumber: 47; Content is not allowed in trailing section.",
+    "retry_count": 3
   }
 ]
