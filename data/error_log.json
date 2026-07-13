@@ -502,5 +502,12 @@
     "error_type": "fetch_failed",
     "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-13T06:27:44.714Z",
+    "source": "https://feeds.reuters.com/reuters/businessNews",
+    "error_type": "fetch_failed",
+    "message": "DNS error: https://feeds.reuters.com/reuters/businessNews",
+    "retry_count": 3
   }
 ]
