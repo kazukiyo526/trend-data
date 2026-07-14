@@ -551,5 +551,12 @@
     "error_type": "fetch_failed",
     "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-14T07:37:19.384Z",
+    "source": "PubMed",
+    "error_type": "fetch_failed",
+    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/07/13\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
   }
 ]
