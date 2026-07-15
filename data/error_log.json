@@ -586,5 +586,12 @@
     "error_type": "fetch_failed",
     "message": "HTTP 404",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-15T06:28:51.686Z",
+    "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
+    "error_type": "fetch_failed",
+    "message": "HTTP 404",
+    "retry_count": 3
   }
 ]
