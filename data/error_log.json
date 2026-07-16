@@ -670,5 +670,12 @@
     "error_type": "parse_error",
     "message": "バッチレスポンスのパース失敗: Unterminated string in JSON at position 3315 (line 59 column 75)",
     "retry_count": 0
+  },
+  {
+    "timestamp": "2026-07-16T18:57:16.311Z",
+    "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
+    "error_type": "fetch_failed",
+    "message": "HTTP 403",
+    "retry_count": 3
   }
 ]
