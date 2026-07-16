@@ -663,5 +663,12 @@
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/07/15\"[Date%20-%20Create])&retmax=20&retmode=json",
     "retry_count": 0
+  },
+  {
+    "timestamp": "2026-07-16T18:15:50.524Z",
+    "source": "GlossaryEngine",
+    "error_type": "parse_error",
+    "message": "バッチレスポンスのパース失敗: Unterminated string in JSON at position 3315 (line 59 column 75)",
+    "retry_count": 0
   }
 ]
