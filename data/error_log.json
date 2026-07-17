@@ -719,5 +719,12 @@
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/07/16\"[Date%20-%20Create])&retmax=20&retmode=json",
     "retry_count": 0
+  },
+  {
+    "timestamp": "2026-07-17T18:57:18.819Z",
+    "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
+    "error_type": "fetch_failed",
+    "message": "HTTP 403",
+    "retry_count": 3
   }
 ]
