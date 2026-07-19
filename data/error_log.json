@@ -789,5 +789,12 @@
     "error_type": "fetch_failed",
     "message": "DNS error: https://feeds.reuters.com/reuters/businessNews",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-19T06:27:47.744Z",
+    "source": "https://www.edsurge.com/news.rss",
+    "error_type": "fetch_failed",
+    "message": "HTTP 404",
+    "retry_count": 3
   }
 ]
