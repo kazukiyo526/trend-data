@@ -852,5 +852,12 @@
     "error_type": "fetch_failed",
     "message": "HTTP 404",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-20T06:27:59.805Z",
+    "source": "https://www.ign.com/articles?format=rss",
+    "error_type": "fetch_failed",
+    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 41; columnNumber: 63120; The entity name must immediately follow the '&' in the entity reference.",
+    "retry_count": 3
   }
 ]
