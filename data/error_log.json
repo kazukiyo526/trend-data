@@ -866,5 +866,12 @@
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/07/19\"[Date%20-%20Create])&retmax=20&retmode=json",
     "retry_count": 0
+  },
+  {
+    "timestamp": "2026-07-20T18:15:22.380Z",
+    "source": "GlossaryEngine",
+    "error_type": "fetch_failed",
+    "message": "Gemini API error: 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
+    "retry_count": 0
   }
 ]
