@@ -1048,5 +1048,12 @@
     "error_type": "fetch_failed",
     "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 440; columnNumber: 47; Content is not allowed in trailing section.",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-24T06:27:42.374Z",
+    "source": "https://feeds.reuters.com/reuters/businessNews",
+    "error_type": "fetch_failed",
+    "message": "DNS error: https://feeds.reuters.com/reuters/businessNews",
+    "retry_count": 3
   }
 ]
