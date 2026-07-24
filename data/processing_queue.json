@@ -2129,121 +2129,121 @@
   },
   {
     "record_id": "news_20260724_0000",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0001",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0002",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0003",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0004",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0005",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0006",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0007",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0008",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0009",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0010",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0011",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0012",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0013",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0014",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0015",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   },
   {
     "record_id": "news_20260724_0016",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-07-23T18:57:27.665Z"
+    "updated_at": "2026-07-24T18:15:40.210Z"
   }
 ]
