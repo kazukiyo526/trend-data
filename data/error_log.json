@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-03T06:28:27.651Z",
-    "source": "https://www.edsurge.com/news.rss",
-    "error_type": "fetch_failed",
-    "message": "HTTP 404",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-03T06:28:36.914Z",
     "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
@@ -1395,6 +1388,13 @@
   {
     "timestamp": "2026-07-31T06:28:34.419Z",
     "source": "https://www.edsurge.com/news.rss",
+    "error_type": "fetch_failed",
+    "message": "HTTP 404",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-07-31T06:28:43.739Z",
+    "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
     "message": "HTTP 404",
     "retry_count": 3
