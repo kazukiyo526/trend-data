@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-05T06:27:57.542Z",
-    "source": "https://www.ign.com/articles?format=rss",
-    "error_type": "fetch_failed",
-    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 41; columnNumber: 63271; The entity name must immediately follow the '&' in the entity reference.",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-05T07:37:19.511Z",
     "source": "PubMed",
     "error_type": "fetch_failed",
@@ -1398,5 +1391,12 @@
     "error_type": "fetch_failed",
     "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 64150; The entity name must immediately follow the '&' in the entity reference.",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-08-02T07:37:19.189Z",
+    "source": "PubMed",
+    "error_type": "fetch_failed",
+    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/01\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
   }
 ]
