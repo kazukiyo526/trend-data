@@ -3218,5 +3218,117 @@
     "retries": 0,
     "error_log": null,
     "updated_at": "2026-08-02T18:15:40.809Z"
+  },
+  {
+    "record_id": "news_20260803_0000",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0001",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0002",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0003",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0004",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0005",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0006",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0007",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0008",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0009",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0010",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0011",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0012",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0013",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0014",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
+  },
+  {
+    "record_id": "news_20260803_0015",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-02T18:57:31.984Z"
   }
 ]
