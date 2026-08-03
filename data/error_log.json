@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-06T07:37:20.067Z",
-    "source": "PubMed",
-    "error_type": "fetch_failed",
-    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/07/05\"[Date%20-%20Create])&retmax=20&retmode=json",
-    "retry_count": 0
-  },
-  {
     "timestamp": "2026-07-06T18:57:16.824Z",
     "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "PubMed",
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/02\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-08-03T18:15:39.015Z",
+    "source": "GlossaryEngine",
+    "error_type": "fetch_failed",
+    "message": "Gemini API error: 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "retry_count": 0
   }
 ]
