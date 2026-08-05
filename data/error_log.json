@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-09T06:27:26.219Z",
-    "source": "https://feeds.reuters.com/reuters/topNews",
-    "error_type": "fetch_failed",
-    "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-09T06:28:44.894Z",
     "source": "https://feeds.reuters.com/reuters/businessNews",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "PubMed",
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/04\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-08-05T18:15:54.492Z",
+    "source": "GlossaryEngine",
+    "error_type": "parse_error",
+    "message": "バッチレスポンスのパース失敗: Unterminated string in JSON at position 617 (line 14 column 46)",
     "retry_count": 0
   }
 ]
