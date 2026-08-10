@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-14T06:27:25.371Z",
-    "source": "https://feeds.reuters.com/reuters/topNews",
-    "error_type": "fetch_failed",
-    "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-14T07:37:19.384Z",
     "source": "PubMed",
     "error_type": "fetch_failed",
@@ -1398,5 +1391,12 @@
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/09\"[Date%20-%20Create])&retmax=20&retmode=json",
     "retry_count": 0
+  },
+  {
+    "timestamp": "2026-08-10T18:57:34.557Z",
+    "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
+    "error_type": "fetch_failed",
+    "message": "HTTP 403",
+    "retry_count": 3
   }
 ]
