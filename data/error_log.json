@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-14T18:57:16.457Z",
-    "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
-    "error_type": "fetch_failed",
-    "message": "HTTP 403",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-15T06:27:26.045Z",
     "source": "https://feeds.reuters.com/reuters/topNews",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "https://feeds.reuters.com/reuters/topNews",
     "error_type": "fetch_failed",
     "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-08-11T06:27:37.350Z",
+    "source": "https://feeds.reuters.com/reuters/businessNews",
+    "error_type": "fetch_failed",
+    "message": "DNS error: https://feeds.reuters.com/reuters/businessNews",
     "retry_count": 3
   }
 ]
