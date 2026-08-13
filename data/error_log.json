@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T06:27:24.739Z",
-    "source": "https://feeds.reuters.com/reuters/topNews",
-    "error_type": "fetch_failed",
-    "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-17T06:27:38.773Z",
     "source": "https://feeds.reuters.com/reuters/businessNews",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
     "message": "HTTP 404",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-08-13T06:27:59.351Z",
+    "source": "https://www.ign.com/articles?format=rss",
+    "error_type": "fetch_failed",
+    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 64853; The entity name must immediately follow the '&' in the entity reference.",
     "retry_count": 3
   }
 ]
