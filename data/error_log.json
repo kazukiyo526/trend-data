@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T18:57:16.997Z",
-    "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
-    "error_type": "fetch_failed",
-    "message": "HTTP 403",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-23T06:27:24.279Z",
     "source": "https://feeds.reuters.com/reuters/topNews",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
     "message": "HTTP 404",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-08-19T06:28:01.806Z",
+    "source": "https://www.ign.com/articles?format=rss",
+    "error_type": "fetch_failed",
+    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 65080; The entity name must immediately follow the '&' in the entity reference.",
     "retry_count": 3
   }
 ]
