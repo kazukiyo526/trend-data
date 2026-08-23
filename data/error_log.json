@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-26T06:28:33.180Z",
-    "source": "https://www.ign.com/articles?format=rss",
-    "error_type": "fetch_failed",
-    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 62964; The entity name must immediately follow the '&' in the entity reference.",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-26T07:37:19.638Z",
     "source": "PubMed",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "https://feeds.reuters.com/reuters/businessNews",
     "error_type": "fetch_failed",
     "message": "DNS error: https://feeds.reuters.com/reuters/businessNews",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-08-23T06:27:41.695Z",
+    "source": "https://www.edsurge.com/news.rss",
+    "error_type": "fetch_failed",
+    "message": "HTTP 404",
     "retry_count": 3
   }
 ]
