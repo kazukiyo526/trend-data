@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-28T06:27:26.549Z",
-    "source": "https://feeds.reuters.com/reuters/topNews",
-    "error_type": "fetch_failed",
-    "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-28T06:29:04.635Z",
     "source": "https://feeds.reuters.com/reuters/businessNews",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "PubMed",
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/23\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-08-24T18:15:29.552Z",
+    "source": "GlossaryEngine",
+    "error_type": "fetch_failed",
+    "message": "Gemini API error: 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "retry_count": 0
   }
 ]
