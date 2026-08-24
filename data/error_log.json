@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-27T06:27:59.393Z",
-    "source": "https://www.edsurge.com/news.rss",
-    "error_type": "fetch_failed",
-    "message": "HTTP 404",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-27T06:28:08.208Z",
     "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "https://feeds.reuters.com/reuters/topNews",
     "error_type": "fetch_failed",
     "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-08-24T06:28:07.268Z",
+    "source": "https://feeds.reuters.com/reuters/businessNews",
+    "error_type": "fetch_failed",
+    "message": "DNS error: https://feeds.reuters.com/reuters/businessNews",
     "retry_count": 3
   }
 ]
