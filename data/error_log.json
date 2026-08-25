@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-29T06:27:49.736Z",
-    "source": "https://www.edsurge.com/news.rss",
-    "error_type": "fetch_failed",
-    "message": "HTTP 404",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-29T06:27:58.484Z",
     "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
@@ -1398,5 +1391,12 @@
     "error_type": "parse_error",
     "message": "バッチレスポンスのパース失敗: Unexpected end of JSON input",
     "retry_count": 0
+  },
+  {
+    "timestamp": "2026-08-25T18:57:17.319Z",
+    "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
+    "error_type": "fetch_failed",
+    "message": "HTTP 403",
+    "retry_count": 3
   }
 ]
