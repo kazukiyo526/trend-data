@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-07-29T06:27:24.074Z",
-    "source": "https://feeds.reuters.com/reuters/topNews",
-    "error_type": "fetch_failed",
-    "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-07-29T06:27:40.928Z",
     "source": "https://feeds.reuters.com/reuters/businessNews",
     "error_type": "fetch_failed",
@@ -1398,5 +1391,12 @@
     "error_type": "fetch_failed",
     "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 41; columnNumber: 65678; The entity name must immediately follow the '&' in the entity reference.",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-08-25T07:37:19.168Z",
+    "source": "PubMed",
+    "error_type": "fetch_failed",
+    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/24\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
   }
 ]
