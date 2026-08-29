@@ -6046,5 +6046,89 @@
     "retries": 0,
     "error_log": null,
     "updated_at": "2026-08-29T18:15:59.205Z"
+  },
+  {
+    "record_id": "news_20260830_0000",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0001",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0002",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0003",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0004",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0005",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0006",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0007",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0008",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0009",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0010",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
+  },
+  {
+    "record_id": "news_20260830_0011",
+    "stage": "collected",
+    "retries": 0,
+    "error_log": null,
+    "updated_at": "2026-08-29T18:57:23.754Z"
   }
 ]
