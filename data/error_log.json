@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-02T07:37:19.189Z",
-    "source": "PubMed",
-    "error_type": "fetch_failed",
-    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/01\"[Date%20-%20Create])&retmax=20&retmode=json",
-    "retry_count": 0
-  },
-  {
     "timestamp": "2026-08-02T18:57:16.247Z",
     "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "PubMed",
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/28\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-08-29T18:15:52.882Z",
+    "source": "GlossaryEngine",
+    "error_type": "parse_error",
+    "message": "バッチレスポンスのパース失敗: Unterminated string in JSON at position 634 (line 14 column 46)",
     "retry_count": 0
   }
 ]
