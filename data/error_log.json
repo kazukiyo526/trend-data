@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-03T07:37:19.532Z",
-    "source": "PubMed",
-    "error_type": "fetch_failed",
-    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/02\"[Date%20-%20Create])&retmax=20&retmode=json",
-    "retry_count": 0
-  },
-  {
     "timestamp": "2026-08-03T18:15:39.015Z",
     "source": "GlossaryEngine",
     "error_type": "fetch_failed",
@@ -1398,5 +1391,12 @@
     "error_type": "fetch_failed",
     "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 64901; The entity name must immediately follow the '&' in the entity reference.",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-08-30T07:37:20.076Z",
+    "source": "PubMed",
+    "error_type": "fetch_failed",
+    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/29\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
   }
 ]
