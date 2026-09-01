@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-05T06:27:58.888Z",
-    "source": "https://www.ign.com/articles?format=rss",
-    "error_type": "fetch_failed",
-    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 62370; The entity name must immediately follow the '&' in the entity reference.",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-08-05T07:37:19.397Z",
     "source": "PubMed",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "PubMed",
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/31\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-09-01T18:16:14.595Z",
+    "source": "GlossaryEngine",
+    "error_type": "fetch_failed",
+    "message": "Gemini API error: 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
     "retry_count": 0
   }
 ]
