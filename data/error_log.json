@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-06T06:27:50.537Z",
-    "source": "https://www.edsurge.com/news.rss",
-    "error_type": "fetch_failed",
-    "message": "HTTP 404",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-08-06T06:27:58.835Z",
     "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
     "message": "HTTP 404",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-09-02T06:28:00.863Z",
+    "source": "https://www.ign.com/articles?format=rss",
+    "error_type": "fetch_failed",
+    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 42; columnNumber: 65598; The entity name must immediately follow the '&' in the entity reference.",
     "retry_count": 3
   }
 ]
