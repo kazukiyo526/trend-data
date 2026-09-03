@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-07T06:27:48.281Z",
-    "source": "https://feeds.reuters.com/reuters/businessNews",
-    "error_type": "fetch_failed",
-    "message": "DNS error: https://feeds.reuters.com/reuters/businessNews",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-08-07T06:28:00.599Z",
     "source": "https://www.edsurge.com/news.rss",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "https://feeds.reuters.com/reuters/businessNews",
     "error_type": "fetch_failed",
     "message": "DNS error: https://feeds.reuters.com/reuters/businessNews",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-09-03T06:27:44.815Z",
+    "source": "https://www.edsurge.com/news.rss",
+    "error_type": "fetch_failed",
+    "message": "HTTP 404",
     "retry_count": 3
   }
 ]
