@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-15T06:28:00.760Z",
-    "source": "https://www.ign.com/articles?format=rss",
-    "error_type": "fetch_failed",
-    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 64644; The entity name must immediately follow the '&' in the entity reference.",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-08-15T07:37:20.245Z",
     "source": "PubMed",
     "error_type": "fetch_failed",
@@ -1395,6 +1388,13 @@
   {
     "timestamp": "2026-09-11T06:28:09.872Z",
     "source": "https://www.edsurge.com/news.rss",
+    "error_type": "fetch_failed",
+    "message": "HTTP 404",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-09-11T06:28:20.171Z",
+    "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
     "message": "HTTP 404",
     "retry_count": 3
