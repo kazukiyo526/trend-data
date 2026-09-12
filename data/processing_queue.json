@@ -7253,212 +7253,212 @@
   },
   {
     "record_id": "news_20260911_0000",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0001",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0002",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0003",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0004",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0005",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0006",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0007",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0008",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0009",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0010",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0011",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0012",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0013",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260911_0014",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-10T18:57:28.905Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0000",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0001",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0002",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0003",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0004",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0005",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0006",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0007",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0008",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0009",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0010",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0011",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0012",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0013",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   },
   {
     "record_id": "news_20260912_0014",
-    "stage": "collected",
+    "stage": "summarized",
     "retries": 0,
     "error_log": null,
-    "updated_at": "2026-09-11T18:57:50.425Z"
+    "updated_at": "2026-09-12T18:15:59.424Z"
   }
 ]
