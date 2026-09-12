@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-17T06:28:03.976Z",
-    "source": "https://www.ign.com/articles?format=rss",
-    "error_type": "fetch_failed",
-    "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 41; columnNumber: 64508; The entity name must immediately follow the '&' in the entity reference.",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-08-17T07:37:19.436Z",
     "source": "PubMed",
     "error_type": "fetch_failed",
@@ -1398,5 +1391,12 @@
     "error_type": "parse_error",
     "message": "バッチレスポンスのパース失敗: Unexpected end of JSON input",
     "retry_count": 0
+  },
+  {
+    "timestamp": "2026-09-12T18:57:15.946Z",
+    "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
+    "error_type": "fetch_failed",
+    "message": "HTTP 403",
+    "retry_count": 3
   }
 ]
