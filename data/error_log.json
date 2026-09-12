@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-16T18:57:16.397Z",
-    "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
-    "error_type": "fetch_failed",
-    "message": "HTTP 403",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-08-17T06:27:24.369Z",
     "source": "https://feeds.reuters.com/reuters/topNews",
     "error_type": "fetch_failed",
@@ -1395,6 +1388,13 @@
   {
     "timestamp": "2026-09-12T06:27:51.352Z",
     "source": "https://www.edsurge.com/news.rss",
+    "error_type": "fetch_failed",
+    "message": "HTTP 404",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-09-12T06:27:59.717Z",
+    "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
     "error_type": "fetch_failed",
     "message": "HTTP 404",
     "retry_count": 3
