@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-17T06:27:55.040Z",
-    "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
-    "error_type": "fetch_failed",
-    "message": "HTTP 404",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-08-17T06:28:03.976Z",
     "source": "https://www.ign.com/articles?format=rss",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "PubMed",
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/09/11\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-09-12T18:15:50.984Z",
+    "source": "GlossaryEngine",
+    "error_type": "parse_error",
+    "message": "バッチレスポンスのパース失敗: Unexpected end of JSON input",
     "retry_count": 0
   }
 ]
