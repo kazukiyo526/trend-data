@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-28T07:37:20.296Z",
-    "source": "PubMed",
-    "error_type": "fetch_failed",
-    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/08/27\"[Date%20-%20Create])&retmax=20&retmode=json",
-    "retry_count": 0
-  },
-  {
     "timestamp": "2026-08-28T18:15:53.756Z",
     "source": "GlossaryEngine",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "PubMed",
     "error_type": "fetch_failed",
     "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/09/22\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
+  },
+  {
+    "timestamp": "2026-09-23T18:15:49.254Z",
+    "source": "GlossaryEngine",
+    "error_type": "parse_error",
+    "message": "バッチレスポンスのパース失敗: Unterminated string in JSON at position 6875 (line 124 column 29)",
     "retry_count": 0
   }
 ]
