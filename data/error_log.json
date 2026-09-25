@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-29T18:15:52.882Z",
-    "source": "GlossaryEngine",
-    "error_type": "parse_error",
-    "message": "バッチレスポンスのパース失敗: Unterminated string in JSON at position 634 (line 14 column 46)",
-    "retry_count": 0
-  },
-  {
     "timestamp": "2026-08-29T18:57:16.496Z",
     "source": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
     "error_type": "fetch_failed",
@@ -1397,6 +1390,13 @@
     "source": "https://feeds.reuters.com/reuters/topNews",
     "error_type": "fetch_failed",
     "message": "DNS error: https://feeds.reuters.com/reuters/topNews",
+    "retry_count": 3
+  },
+  {
+    "timestamp": "2026-09-25T06:29:35.239Z",
+    "source": "https://feeds.reuters.com/reuters/businessNews",
+    "error_type": "fetch_failed",
+    "message": "DNS error: https://feeds.reuters.com/reuters/businessNews",
     "retry_count": 3
   }
 ]
