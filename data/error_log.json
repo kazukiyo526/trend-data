@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01T06:27:52.161Z",
-    "source": "https://feeds.feedburner.com/edutopia/blogs-and-posts",
-    "error_type": "fetch_failed",
-    "message": "HTTP 404",
-    "retry_count": 3
-  },
-  {
     "timestamp": "2026-09-01T06:28:01.103Z",
     "source": "https://www.ign.com/articles?format=rss",
     "error_type": "fetch_failed",
@@ -1398,5 +1391,12 @@
     "error_type": "fetch_failed",
     "message": "Caught SAXException: org.xml.sax.SAXParseException; lineNumber: 42; columnNumber: 66421; The entity name must immediately follow the '&' in the entity reference.",
     "retry_count": 3
+  },
+  {
+    "timestamp": "2026-09-27T07:37:19.063Z",
+    "source": "PubMed",
+    "error_type": "fetch_failed",
+    "message": "Invalid argument: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(\"2026/09/26\"[Date%20-%20Create])&retmax=20&retmode=json",
+    "retry_count": 0
   }
 ]
